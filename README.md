@@ -88,6 +88,27 @@ No human needed.
 
 ---
 
+## Installation
+
+1. Clone the repository
+git clone https://github.com/Romio1310/Enterprise-Multi-Agent-Voice-Automation-System
+
+2. Install dependencies
+pip install -r requirements.txt
+
+3. Add your API keys:
+- OpenAI API Key
+- Google Calendar API
+- Gmail API
+- Pinecone API
+- Telegram Bot Token
+- VAPI API Key
+
+4. Run the project
+python main.py
+
+---
+
 ## **System Architecture**
 
 The project consists of **four intelligent agents**.
@@ -336,6 +357,15 @@ Eliminates human scheduling mistakes, missed emails, and forgotten follow-ups.
 - unclear instructions  
 
 Each agent returns structured, safe, predictable outputs.
+
+---
+
+## Why this project matters
+
+Most AI agent projects only generate responses.  
+This project goes one step further — it performs real-world actions such as calling, emailing, and scheduling automatically.
+
+It shows how AI agents can actually replace repetitive enterprise workflows.
 
 ---
 
