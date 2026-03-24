@@ -1,5 +1,5 @@
 # **Enterprise Multi-Agent Voice Automation System**  
-### *Automating phone calls, emails, scheduling, and enterprise workflows using an intelligent multi-agent AI architecture.*
+### *An enterprise-grade multi-agent AI system that automates phone calls, emails, scheduling, and internal workflows using voice commands and intelligent agent orchestration.*
 
 ---
 
@@ -17,6 +17,23 @@ It showcases a fully autonomous enterprise-grade AI system capable of performing
 - Delegating tasks across specialized sub-agents  
 
 The system behaves like a **corporate AI personal assistant**, automating workflows typically handled by HR, BPO teams, sales executives, medical reception, and administrative staff.
+
+---
+
+## Demo
+
+This project demonstrates a real enterprise workflow:
+
+Voice Command:
+"Call John to confirm tomorrow’s meeting and email me the summary."
+
+What the system does automatically:
+1. Converts voice to text
+2. Finds contact in database
+3. Makes the phone call
+4. Generates a summary
+5. Sends a professional email
+6. Confirms the task on Telegram
 
 ---
 
@@ -97,6 +114,11 @@ Routing rules ensure reliability:
 
 This keeps the system predictable and enterprise-ready.
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2756ff64-6c59-454f-be95-8f75c63dd189" width="650"/>
+</p>
+
+
 ---
 
 ### **2. PhoneCallAgent**
@@ -120,6 +142,10 @@ A real autonomous phone-calling agent built with **VAPI.ai**.
 
 This is the strongest demonstration of real-world enterprise automation.
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/227132af-b9a0-4bdc-8c9c-7a798bc274bf" width="650"/>
+</p>
+
 ---
 
 ### **3. EmailAgent**
@@ -137,6 +163,11 @@ Example command:
 
 > “Send a thank you email to Priya for today’s meeting.”
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d6263117-999f-4ed2-a7ab-d85f00467ebf" width="650"/>
+</p>
+
+
 ---
 
 ### **4. CalendarAgent**
@@ -152,6 +183,11 @@ Automates scheduling tasks using **Google Calendar API**.
 - Avoids cancelled or duplicate events  
 
 Perfect for executives and teams with high meeting load.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3d0883d2-c701-4341-9bf2-49ee59482884" width="650"/>
+</p>
+
 
 ---
 
